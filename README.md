@@ -1,2 +1,2 @@
 # springboot-map-init
-Mapa zagrożeń
+Geolokalizacja zagrożeń - zrób to sam w Springu
